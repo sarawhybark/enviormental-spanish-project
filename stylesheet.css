@@ -1,0 +1,54 @@
+.box-1{
+    width:500px;
+    height:100px;
+    background-color:blue;
+    border:dotted;
+    color:red;
+    border-radius: 20px;
+    padding: 20px
+}
+.box-2{
+    width:500px;
+    height:150px;
+    background-color:red;
+    border:dotted;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+p-1{
+    color:pink
+}
+body{ background:maroon;
+color:white;
+}
+.box-3{
+    height:150px;
+    width:500px;
+    background-color:white;
+    border:dotted;
+    color:black;
+    border-radius: 20px;
+    padding: 20px
+
+}
+.box-4{
+    height:150px;
+    width:500px;
+    background-color:purple;
+    border:dotted;
+    border-radius: 20px;
+    padding: 20px
+
+    }
+    .box-5{
+        height:100px;width:500px;
+        background-color:black;
+        border:dotted;
+        border-radius: 20px;
+    padding: 20px
+
+    }
+p-d{
+    color: powderblue;
+}
